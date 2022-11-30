@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neil Angelo Martinez</h1>
 <h3 align="center">An aspiring data analyst from the Philippines.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/neilangelomartinez](https://github.com/neilangelomartinez)
+- 👨‍💻 Visit my website: [https://neilangelomartinez.github.io](https://neilangelomartinez.github.io)
 
 - 📫 How to reach me **neilangelomartinez@gmail.com**
 
