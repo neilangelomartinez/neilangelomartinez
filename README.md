@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neil Angelo Martinez</h1>
 <h3 align="center">An aspiring data analyst from the Philippines.</h3>
 
-- 👨‍💻 Visit my website: [https://bit.ly/neilmartinez](https://neilangelomartinez.github.io)
+- 👨‍💻 Visit my website: [https://neilangelomartinez.github.io/](https://bit.ly/neilmartinez)
 - ✍🏻 Check out my blogs: [https://medium.com/@neilangelomartinez](https://medium.com/@neilangelomartinez)
 - 📊 BI Portfolio: [https://www.novypro.com/profile_projects/neilangelomartinez](https://www.novypro.com/profile_projects/neilangelomartinez)
 - 🔗 LinkedIn: [https://www.linkedin.com/in/neilangelomartinez](https://www.linkedin.com/in/neilangelomartinez)
