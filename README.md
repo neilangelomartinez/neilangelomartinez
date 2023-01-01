@@ -2,9 +2,9 @@
 <h3 align="center">An aspiring data analyst from the Philippines.</h3>
 
 - 👨‍💻 Visit my website: [https://neilangelomartinez.github.io/](https://bit.ly/neilmartinez)
-- ✍🏻 Check out my blogs: [https://medium.com/@neilangelomartinez](https://medium.com/@neilangelomartinez)
-- 📊 BI Portfolio: [https://www.novypro.com/profile_projects/neilangelomartinez](https://www.novypro.com/profile_projects/neilangelomartinez)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/neilangelomartinez](https://www.linkedin.com/in/neilangelomartinez)
+- ✍🏻 Check out my blogs: [https://medium.com/@neilangelomartinez](https://bit.ly/neilmartinez-medium)
+- 📊 BI Portfolio: [https://www.novypro.com/profile_projects/neilangelomartinez](https://bit.ly/neilmartinez-novypro)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/neilangelomartinez](https://bit.ly/neilmartinez-linkedin)
 - 📫 How to reach me **neilangelomartinez@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
