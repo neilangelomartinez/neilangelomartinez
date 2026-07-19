@@ -1,23 +1,38 @@
-<h1 align="center">Hi 👋, I'm Neil Angelo Martinez</h1>
-<h3 align="center">An aspiring data analyst from the Philippines.</h3>
+<h1 align="center">Hi 👋, I'm Neil Martinez</h1>
+<h3 align="center">Performance Media Buyer &amp; Marketing VA — Meta Ads + AI Creative 🇵🇭</h3>
 
-- 👨‍💻 Visit my website: [https://neilangelomartinez.github.io/](https://bit.ly/neilmartinez)
-- ✍🏻 Check out my blogs: [https://medium.com/@neilangelomartinez](https://bit.ly/neilmartinez-medium)
-- 📊 BI Portfolio: [https://www.novypro.com/profile_projects/neilangelomartinez](https://bit.ly/neilmartinez-novypro)
-- 🔗 LinkedIn: [https://www.linkedin.com/in/neilangelomartinez](https://bit.ly/neilmartinez-linkedin)
-- 📫 How to reach me **neilangelomartinez@gmail.com**
+<p align="center">
+I build Meta ad systems that turn ad spend into profit — grounded in data, fueled by creative testing,
+and accelerated with AI (ad images &amp; landing pages). 2 years running paid social for eCommerce, service, and tech brands across the US &amp; PH.
+</p>
+
+<p align="center">
+  <a href="https://neilangelomartinez.github.io/"><b>🌐 Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://bit.ly/neilmartinez-linkedin"><b>💼 LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:neilangelomartinez@gmail.com"><b>📫 Email</b></a>
+</p>
+
+---
+
+### 📈 Results snapshot
+- **27.9M** reach · **188M** impressions · **31K** purchases driven (US tech brand)
+- **2.98x** ROAS at a **60%** profit margin on my own brand (₱1.8M from ₱633K spend)
+- **3.48x** avg / **4.13x** best campaign ROAS (PH dropshipping)
+
+### 🛠️ What I do
+- **Meta Ads management** — strategy, build, ABO/CBO testing &amp; scaling
+- **Creative strategy &amp; testing** — ad copy + **AI-generated creatives** (Claude Code + Nano Banana Pro)
+- **Funnel &amp; landing pages** — **AI-built** with Manus + Claude Code
+- **Email/SMS, tracking &amp; reporting** — Klaviyo · Pixel &amp; Conversions API · ManyChat automations
+
+### 🧰 Tools
+`Meta Ads` · `Google Ads` · `TikTok Ads` · `Shopify` · `Klaviyo` · `ManyChat` · `Zapier` · `Notion` · `Claude Code` · `Nano Banana Pro` · `Manus`
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/neilangelomartinez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/neilangelomartinez/" height="30" width="40" /></a>
-<a href="https://fb.com/facebook.com/neilangelomartinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/neilangelomartinez" height="30" width="40" /></a>
-<a href="https://instagram.com/martinezneil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="martinezneil" height="30" width="40" /></a>
-<a href="https://discord.gg/neo026#6700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="neo026#6700" height="30" width="40" /></a>
+<a href="https://bit.ly/neilmartinez-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://fb.com/facebook.com/neilangelomartinez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/martinezneil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neilangelomartinez&show_icons=true&locale=en&layout=compact" alt="neilangelomartinez" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neilangelomartinez&show_icons=true&locale=en" alt="neilangelomartinez" /></p>
