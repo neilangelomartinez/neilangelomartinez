@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Neil Martinez</h1>
-<h3 align="center">Performance Media Buyer &amp; Marketing VA — Meta Ads + AI Creative 🇵🇭</h3>
+<h3 align="center">Performance Media Buyer &amp; Marketing VA · Meta Ads + AI Creative 🇵🇭</h3>
 
 <p align="center">
-I build Meta ad systems that turn ad spend into profit — grounded in data, fueled by creative testing,
-and accelerated with AI (ad images &amp; landing pages). 2 years running paid social for eCommerce, service, and tech brands across the US &amp; PH.
+I run Meta ads for eCommerce and service brands in the US, Hong Kong, and the Philippines.
+Two years in, I build ad systems that bring in leads and sales at a profit, and I use AI to
+make ad images and build landing pages so tests go live faster.
 </p>
 
 <p align="center">
@@ -14,16 +15,16 @@ and accelerated with AI (ad images &amp; landing pages). 2 years running paid so
 
 ---
 
-### 📈 Results snapshot
-- **27.9M** reach · **188M** impressions · **31K** purchases driven (US tech brand)
-- **2.98x** ROAS at a **60%** profit margin on my own brand (₱1.8M from ₱633K spend)
-- **3.48x** avg / **4.13x** best campaign ROAS (PH dropshipping)
+### 📈 What I've done
+- Delivered **975M+ ad impressions** and **259K purchases** across the accounts I run.
+- Beat ROAS targets: **1.97x** against a **1.70** goal on a Hong Kong account, **0.92x** against **0.60** on a US account.
+- **5.12x** best month on my own brand, at a **60%** profit margin.
 
 ### 🛠️ What I do
-- **Meta Ads management** — strategy, build, ABO/CBO testing &amp; scaling
-- **Creative strategy &amp; testing** — ad copy + **AI-generated creatives** (Claude Code + Nano Banana Pro)
-- **Funnel &amp; landing pages** — **AI-built** with Manus + Claude Code
-- **Email/SMS, tracking &amp; reporting** — Klaviyo · Pixel &amp; Conversions API · ManyChat automations
+- **Meta Ads:** strategy, build, and daily optimization, from ABO/CBO testing through scaling.
+- **Creative:** ad copy and AI-made ad images with Claude Code and Nano Banana Pro.
+- **Funnels &amp; landing pages:** built with Manus and Claude Code, localized per market.
+- **Email/SMS, tracking, and reporting:** Klaviyo, Pixel and Conversions API, ManyChat.
 
 ### 🧰 Tools
 `Meta Ads` · `Google Ads` · `TikTok Ads` · `Shopify` · `Klaviyo` · `ManyChat` · `Zapier` · `Notion` · `Claude Code` · `Nano Banana Pro` · `Manus`
